@@ -1,0 +1,72 @@
+
+
+.content{
+    background-color:white;
+    height: 80vh;
+     margin-top:80px;
+}
+.right-box{
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+/* ---------------------------- Navbar-CSS  ------------------------- */
+
+.navbar-brand{
+    font-weight: 800 !important;
+    font-size: 35px;
+    padding: 5px;
+    margin-left: 10px !important;
+}
+.navbar-brand:hover{
+    color: #ffcc00 !important;
+}
+.logo{
+    font-size: 35px !important;
+    padding: 5px;
+}
+.log-btn{
+    width: 100px;
+    background-color: white;
+    color:black;
+    font-size: 18px;
+    font-weight: 400;
+    border: 1px solid rgb(72, 72, 74);
+    padding: 5px 5px 5px;
+    border-radius: 3px;
+}
+.log-btn:hover{
+    background-color: #000033 ;
+    color: white;
+    border: none;
+}
+
+
+/* ---------------------------- Sidebar-CSS  ------------------------- */
+.item{
+    padding: 10px;
+    margin: 7px;
+    background-color: #ff0000;
+    color: white;
+}
+.item2{
+    padding: 10px;
+    margin: 7px;
+    background-color: white;
+    color: black;
+}
+.item2:hover{
+    padding: 10px;
+    margin: 7px;
+    background-color: #000033;
+    color: white;
+}
+
+/* ---------------------------- Quiz_Card -CSS  ------------------------- */
+.card{
+    width: 30%;
+    margin: 5px;
+    padding: 10px;
+    
+}
